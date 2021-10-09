@@ -1,2 +1,2 @@
 # ComputerGraphics
-ITMO University
+ITMO University 
